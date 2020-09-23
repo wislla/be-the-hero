@@ -8,7 +8,7 @@
 ______________________________________________________________
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
-  <a href="#features">Features</a> • 
+  <a href="#features">Status do Projeto</a> • 
    <a href="#tecnologias">Tecnologias</a> • 
    <a href="#contribuicao"> Pré-requisitos / Rodar a aplicação</a> • 
  <a href="#autor">Autor</a>
@@ -19,9 +19,12 @@ ______________________________________________________________
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 </p>
-<div  id="features"> <h1> Features </h1> </div>
+<div  id="features"> <h1> Status do Projeto </h1> </div>
 <p> 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  *Em construção...*
+- [x] API
+- [ ] Frontend Web
+- [ ] Aplicativo Mobile
 
 </p>
 <div  id="tecnologias"> <h1> Tecnologias </h1> </div>
