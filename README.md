@@ -20,7 +20,7 @@ Esse projeto é desenvolvido para que ongs e instituições de caridades possam 
  
 <div  id="features"> <h1> Status do Projeto </h1> </div>
 
-*Em construção...*
+:construction: *Em construção...* :construction:
 - [x] API
 - [ ] Frontend Web
 - [ ] Aplicativo Mobile
