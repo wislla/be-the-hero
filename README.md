@@ -1,7 +1,9 @@
 
 
-# Be The Hero
-### App para conectar Ongs a pessoas que desejam ajudar.
+
+
+<h1 align="center">   Be The Hero </h1>
+<h3 align="center">   App para conectar Ongs a pessoas que desejam ajudar. </h3>
 
 ______________________________________________________________
 <p align="center">
@@ -11,3 +13,5 @@ ______________________________________________________________
    <a href="#contribuicao"> Pré-requisitos / Rodar a aplicação</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+<div id="objetivo"> <h1> Objetivo</h1> </div>
